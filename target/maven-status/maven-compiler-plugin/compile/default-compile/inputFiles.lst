@@ -1,0 +1,14 @@
+/Users/mvatsya/Downloads/AltirAssignment/src/main/java/assignment/altir/voting/dto/VotingResult.java
+/Users/mvatsya/Downloads/AltirAssignment/src/main/java/assignment/altir/voting/repository/BillRepository.java
+/Users/mvatsya/Downloads/AltirAssignment/src/main/java/assignment/altir/voting/controller/VotingController.java
+/Users/mvatsya/Downloads/AltirAssignment/src/main/java/assignment/altir/voting/repository/SpeakerRepository.java
+/Users/mvatsya/Downloads/AltirAssignment/src/main/java/assignment/altir/voting/model/Speaker.java
+/Users/mvatsya/Downloads/AltirAssignment/src/main/java/assignment/altir/voting/model/TieVote.java
+/Users/mvatsya/Downloads/AltirAssignment/src/main/java/assignment/altir/voting/model/PresentFlag.java
+/Users/mvatsya/Downloads/AltirAssignment/src/main/java/assignment/altir/voting/VotingMainApplication.java
+/Users/mvatsya/Downloads/AltirAssignment/src/main/java/assignment/altir/voting/model/BillStatus.java
+/Users/mvatsya/Downloads/AltirAssignment/src/main/java/assignment/altir/voting/repository/PersonRepository.java
+/Users/mvatsya/Downloads/AltirAssignment/src/main/java/assignment/altir/voting/service/VotingService.java
+/Users/mvatsya/Downloads/AltirAssignment/src/main/java/assignment/altir/voting/model/VoteStatus.java
+/Users/mvatsya/Downloads/AltirAssignment/src/main/java/assignment/altir/voting/model/Bill.java
+/Users/mvatsya/Downloads/AltirAssignment/src/main/java/assignment/altir/voting/model/Person.java
